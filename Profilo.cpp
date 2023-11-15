@@ -11,7 +11,7 @@ void Profilo::setData(string newData)
 	dataCreazione = newData;
 }
 
-string Profilo::getID()
+string Profilo::getStatus()
 {
 	return statusProfilo;
 }

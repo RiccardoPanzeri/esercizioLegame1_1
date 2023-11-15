@@ -14,7 +14,7 @@ public:
 	//metodi per ricavare e modificare le info del profilo stesso:
 	void setID(string newID);
 	void setData(string newData);
-	string getID();
+	string getStatus();
 	string getData();
 	
 	//metodi per ricavare le info dell'utente associato al profilo.
